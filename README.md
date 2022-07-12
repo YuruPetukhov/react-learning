@@ -7,3 +7,10 @@
 - [Темы c 34 по 54 ](https://teachmeskills.by/kursy-programmirovaniya/frontend-html-css-javascript-minsk)
 - [Слайды](https://slides.com/petukhov_yury/js-advance/edit)
 - [Докумментация React](https://ru.reactjs.org/)
+
+---
+
+Тема первого урока проверка знаний HTML и basic JavaScript
+
+- [HTML](https://chm.org.ua/css-interview/)
+- [JavaScript](https://habr.com/ru/post/486820/)
